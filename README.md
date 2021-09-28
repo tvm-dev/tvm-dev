@@ -1,6 +1,6 @@
 ## Hi there, i'm Thiago and thank you for visit my profile here on github.com
 <div align="center">
-  <a href="#">
+  <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tvm-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -15,7 +15,7 @@
   
   ##
   
-What i'm doindo now:
+What i'm doing now:
 
 - 🔭 I’m currently working in Django and React JS Personal Project for learning
 - 🌱 I’m currently learning Django Rest Framework on the Backend and ReactJS on the Fron-end
@@ -30,7 +30,7 @@ What i'm doindo now:
  
 <div> 
     <a href = "mailto:tvm.dev2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tvm-dev2015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/tvm-dev2015/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
