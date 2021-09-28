@@ -1,3 +1,29 @@
+Hi there, i'm Thiago and thank you for visit my profile here on github.com
+
+<div align="center">
+  <a href="https://professorthiago.com.br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tvm-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvm-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
