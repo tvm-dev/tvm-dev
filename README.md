@@ -1,6 +1,6 @@
 ## Hi there, i'm Thiago and thank you for visit my profile here on github.com
 <div align="center">
-  <a href="https://github.com/tvm-dev">
+  <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tvm-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -13,6 +13,19 @@
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   </div>
   
+  ##
+  
+What i'm doindo now:
+
+- 🔭 I’m currently working in Django and React JS Personal Project for learning
+- 🌱 I’m currently learning Django Rest Framework on the Backend and ReactJS on the Fron-end
+- 👯 I'm looking to collaborate with people and companies that want to make a better world
+- 🤔 I’m looking for help with remote Jobs in Portugal
+- 💬 Ask me about Digital Law, Python, Django, ReactJS and Web Development
+- 📫 How to reach me: E-mail and/or Linkedin
+- 😄 Pronouns: You can call me dev 
+- ⚡ Fun fact: I'm addicted to Netflix
+-->
   ##
  
 <div> 
