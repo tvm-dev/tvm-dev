@@ -18,11 +18,11 @@
   
 What i'm doing now:
 
-- 🔭 I’m currently working in Django and React JS Personal Project for learning
-- 🌱 I’m currently learning Django Rest Framework on the Backend and ReactJS on the Fron-end
-- 👯 I'm looking to collaborate with people and companies that want to make a better world
-- 🤔 I’m looking for help with remote Jobs in Portugal
-- 💬 Ask me about Digital Law, Python, Django, ReactJS and Web Development
+- 🔭 I’m currently working in JS, NodeJS, ReactJS and React Native.
+- 🌱 Last year I studied Python and Django.
+- 👯 I'm looking to collaborate with people and companies that want to make a better world.
+- 🤔 I’m looking for help with remote Jobs.
+- 💬 Ask me  Javascript and MERN Stack.
 - 📫 How to reach me: E-mail and/or Linkedin
 - 😄 Pronouns: You can call me dev 
 - ⚡ Fun fact: I'm addicted to Netflix
